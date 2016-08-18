@@ -9,6 +9,10 @@ and that any help I receieved adhered to the rules stated for this exam.
 ********************************************************************************************************/
 
 
+//PT -- Well done. One suggestion: the function for showing the different color lists are almost identical,
+//  with the only real difference being the file name. Maybe make a separate function that takes the file name,
+//  and shows the list?
+
 #include <iostream>
 #include <string>
 #include <fstream>
