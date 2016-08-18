@@ -4,6 +4,8 @@
 // CS172: Exam 2
 /////////////////////////////////////////
 
+//PT -- Nice work. 98/100
+
 #include <iostream>
 #include <string>
 #include <fstream>
